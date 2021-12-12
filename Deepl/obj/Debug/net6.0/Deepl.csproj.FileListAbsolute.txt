@@ -1,0 +1,14 @@
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\Deepl.exe
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\Deepl.deps.json
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\Deepl.runtimeconfig.json
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\Deepl.dll
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\ref\Deepl.dll
+C:\Users\osu\source\repos\Deepl\Deepl\bin\Debug\net6.0\Deepl.pdb
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.AssemblyInfoInputs.cache
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.AssemblyInfo.cs
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.csproj.CoreCompileInputs.cache
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.dll
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\ref\Deepl.dll
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.pdb
+C:\Users\osu\source\repos\Deepl\Deepl\obj\Debug\net6.0\Deepl.genruntimeconfig.cache
